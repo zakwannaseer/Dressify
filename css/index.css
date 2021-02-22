@@ -1,0 +1,52 @@
+.navigation {
+    background-color: #020d29;
+}
+
+.navigation-link:hover {
+    font-weight: bold;
+}
+
+.logo {
+    height: 50px;
+}
+
+.brand-name {
+    color: #C71314;
+    font-weight: bold;
+}
+
+.head-video {
+    width: 100%;
+}
+
+.heading {
+    color: #020d29;
+}
+
+.dress {
+    color: #C71314;
+}
+
+.image-figure {
+    height: 430px;
+}
+
+.video-bg {
+    background-color: #020d29;
+}
+
+.footer {
+    background-color: #020d29;
+}
+
+.facebook {
+    color: #3b5998;
+}
+
+.instagram {
+    color: #d81434;
+}
+
+.twitter {
+    color: #1DA1F2;
+}
